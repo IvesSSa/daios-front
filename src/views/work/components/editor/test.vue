@@ -314,7 +314,7 @@ export default {
 };
 </script>
 
-<style lang="">
+<style lang="scss">
 #container {
   .margin {
     margin: 0;
