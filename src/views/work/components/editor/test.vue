@@ -314,8 +314,15 @@ export default {
 };
 </script>
 
-<style lang="scss">
-
+<style lang="">
+#container {
+  .margin {
+    margin: 0;
+  }
+}
+.min_editor {
+  height: 50% !important;
+}
 </style>
 
 
